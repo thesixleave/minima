@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 同步輸入
+title: pre輸入textarea同步
 ---
 
 <html>
