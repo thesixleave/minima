@@ -2,6 +2,9 @@
 layout: post
 title: pre輸入textarea同步
 ---
+讓 pre 或是 div 以輸入的效果是用到 contenteditable 將這個屬性設為 true 之後便有輸入的效果了。
+
+接著再處理 textarea 的內容同步，以 keyup、keydown 以及 keypress 來檢視我們按了那些按鍵。
 
 <html>
 <head>
