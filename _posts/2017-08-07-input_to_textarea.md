@@ -2,7 +2,7 @@
 layout: post
 title: 同步輸入
 ---
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
