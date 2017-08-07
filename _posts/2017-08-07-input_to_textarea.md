@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 時間
+title: 同步輸入
 ---
 <!DOCTYPE html>
 <html>
